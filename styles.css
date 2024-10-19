@@ -46,7 +46,7 @@ main {
     list-style: none;
     position: fixed;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     height: 100svh;
     align-items: relative;
     background-color: var(--bg-navigation);
