@@ -53,3 +53,36 @@ main {
     gap: 1.5rem;
     
 }
+.nav-item{
+    margin-left: 2rem;
+    border-radius: 100vw 0 0 100vw;
+}
+.nav-item:first-child{
+    margin-top: 4rem;
+}
+.nav-item a{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-weight: 500;
+    padding-left: 2rem;
+    padding-right: 1.5rem;
+    height: 4rem;
+    
+}
+.nav-item:last-child{
+    margin-top: auto;
+    margin-bottom: .5rem;
+}
+
+/*main-body*/
+section {
+    min-height: 100vw;
+    text-transform: uppercase;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+
+}
