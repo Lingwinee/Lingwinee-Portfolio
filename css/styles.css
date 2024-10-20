@@ -80,9 +80,9 @@
     padding: 10px 20px;
     transition: color 0.5s ease;
   }
-  .nav-list:last-child{
+  /* .nav-list:last-child{ 
     
-  }
+  }*/
   
   .nav-list li a:hover {
     background-color: #555;
