@@ -35,6 +35,7 @@
   
   .dark-mode .theme-switch span {
     transform: translateX(20px);
+    background-color: #868686;
   }
   
   body {
