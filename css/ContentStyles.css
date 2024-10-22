@@ -1,0 +1,5 @@
+/*HOME SECTION*/
+.Home-Contanier {
+    display: flex;
+    flex-direction: row;
+}
