@@ -1,8 +1,32 @@
 /*HOME SECTION*/
-.Home-Contanier {
+.Home-Container {
     display: flex;
     flex-direction: row;
-    border: solid 2px lightblue;
-    border-radius: 10px;
+    gap: 20px; /* Add space between cards */
+    padding: 20px;
 }
 
+.Home-Title, .Home-Info-Container, .Profile-Pic-Container, .Home-text-content {
+    background-color: white;
+    border: solid 2px lightblue;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    flex: 1; 
+}
+
+.Home-Title {
+    
+}
+
+.Home-Info-Container {
+    
+}
+
+.Profile-Pic-Container {
+    
+}
+
+.Home-text-content {
+    
+}
