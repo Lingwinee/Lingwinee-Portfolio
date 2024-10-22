@@ -73,7 +73,7 @@
   .nav-list {
     list-style: none;
     display: flex;
-    gap: 5%;
+    gap: auto;
   }
   .dark-mode .nav-list li a {
     color: #ffffff;
