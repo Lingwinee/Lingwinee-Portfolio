@@ -5,13 +5,14 @@
     gap: 20px; /* Add space between cards */
     padding: 20px;
 }
-
+/*Inside of home container*/
 .Home-Info-Container {
     display: flex;
     flex-direction: row;
     gap: 20px;
     padding: 5px;
 }
+/* Inside of Home-Info-Container*/
 .Profile-Pic-Container, .Home-text-content {
     background-color: rgba(255, 255, 255, 0);
     border: solid 2px lightblue;
