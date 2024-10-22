@@ -87,11 +87,11 @@
   
   .nav-list li a:hover {
     background-color: #555;
-    border-radius: 5px;
+    border-radius: 20px;
   }
   .dark-mode .nav-list li a:hover {
     background-color: #c0c0c0;
-    border-radius: 5px;
+    border-radius: 20px;
   }
   /* Section Styles */
   section {
