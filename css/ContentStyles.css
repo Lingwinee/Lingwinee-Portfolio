@@ -15,7 +15,7 @@
 /* Inside of Home-Info-Container*/
 .Profile-Pic-Container, .Home-text-content {
     background-color: rgba(255, 255, 255, 0);
-    border: solid 2px lightblue;
+    border: solid 2px rgba(255, 255, 255, 0);
     border-radius: 10px;
     box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
     padding: 20px;
