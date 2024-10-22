@@ -2,7 +2,7 @@
 .Home-Container {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Add space between cards */
+    gap: 20px;
     padding: 20px;
 }
 /*Inside of home container*/
@@ -50,7 +50,7 @@
     margin: 5px 10px;
     padding: 10px;
 	padding-bottom: 10px;
-    background-color: #f9f9f9;
+    background-color: #f9f9f900;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     min-width: 250px; 
