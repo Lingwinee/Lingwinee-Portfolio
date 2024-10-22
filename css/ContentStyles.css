@@ -2,6 +2,7 @@
 .Home-Contanier {
     display: flex;
     flex-direction: row;
+    border: solid 2px lightblue;
     border-radius: 10px;
 }
 
